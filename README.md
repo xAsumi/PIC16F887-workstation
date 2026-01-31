@@ -1,6 +1,6 @@
 # Smart Workstation System
 
-**Author:** Rami ELAMRI
+**Author:** Rami 
 
 ## Project Overview
 The **Smart Workstation System** is an embedded safety and quality control unit for industrial environments. Developed using the **PIC16F887** microcontroller, it automates operator authentication and safety management.
